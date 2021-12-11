@@ -1,2 +1,2 @@
-# miPropiaBiblioteca
-mi propia bibiloteca
+# collisionAlgorithm
+Algorithm to detect collision between two objects
